@@ -10,7 +10,7 @@ Three scripts that build an editable, non destructive retouching workflow. Recor
 |---|---|---|
 | FS Low (Color & Tone) | Blurred color layer (frequency separation) | Even out blotches with Mixer Brush, or Lasso + Gaussian Blur |
 | FS High (Texture) | Pore detail in Linear Light | Usually nothing; Clone Stamp (Current Layer) for stray hairs |
-| Spot Healing | Empty layer | Spot Healing Brush, Sample: Current & Below |
+| Spot Healing | Empty layer | Spot Healing Brush with Sample All Layers ticked |
 | Dodge (paint white) | Curves brighten, black mask | Soft white brush, 3 to 8% flow, on shadows to lift |
 | Burn (paint white) | Curves darken, black mask | Soft white brush, 3 to 8% flow, on highlights to calm |
 

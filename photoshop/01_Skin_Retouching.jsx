@@ -6,7 +6,7 @@
 // Layer stack created (bottom to top), inside the group "Skin Retouching":
 //   FS Low (Color & Tone)   blurred copy, smooth blotches here with Mixer Brush or Lasso + Blur
 //   FS High (Texture)       Linear Light texture layer, preserves pores
-//   Spot Healing            empty layer for the Spot Healing Brush (Sample: Current & Below)
+//   Spot Healing            empty layer for the Spot Healing Brush (tick Sample All Layers)
 //   Dodge (paint white)     Curves brighten, black mask, paint with a soft 3 to 8% white brush
 //   Burn (paint white)      Curves darken, black mask, paint with a soft 3 to 8% white brush
 // The original layers are never modified.
